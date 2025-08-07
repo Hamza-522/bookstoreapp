@@ -46,7 +46,7 @@ It allows users to browse books, manage cart and orders, and securely authentica
 
 ---
 
-🎥 **Video Demo:** [Watch Demo Video](https://github.com/Hamza-522/LabAutomation/blob/main/screenshots/demo.mp4)
+🎥 **Video Demo:** [Watch Demo Video](https://github.com/Hamza-522/LabAutomation/blob/main/screenshots/bandicam 2025-08-07 16-50-09-031.mp4)
 
 ## 🖼️ App Screenshots
 
